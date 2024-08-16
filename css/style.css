@@ -1,0 +1,31 @@
+p{
+    color: red;
+}
+
+
+  h3{
+    color: blue;
+  }
+  .negrita{
+    font: bold;
+  }
+    
+  
+
+  
+  #gigante {
+    font-size:40 px;
+  }
+  .dorado {
+    color: gold;
+  }
+  
+  .mayusculas {
+    text-transform: uppercase;
+  }
+  
+  #contacto {
+    background-color: green;
+    color: white;
+  }
+  
